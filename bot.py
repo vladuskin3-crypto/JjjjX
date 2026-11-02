@@ -3,7 +3,7 @@ import requests
 import re
 
 # Вставьте сюда ваш токен от @BotFather
-API_TOKEN = '9198275284:AAFi5njhpgHjBBkp_RcuWLzSMgmEy8i4mKE'
+API_TOKEN = "9198275284:AAFi5njhpgHjBBkp_RcuWLzSMgmEy8i4mKE"
 
 bot = telebot.TeleBot(API_TOKEN)
 
